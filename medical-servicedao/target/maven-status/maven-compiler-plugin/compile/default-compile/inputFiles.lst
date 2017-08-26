@@ -1,0 +1,12 @@
+/Users/qiaoguohua/Documents/workspace/medical-aggregator/medical-servicedao/src/main/java/com/medical/dao/UserMapper.java
+/Users/qiaoguohua/Documents/workspace/medical-aggregator/medical-servicedao/src/main/java/com/medical/entity/Authorities.java
+/Users/qiaoguohua/Documents/workspace/medical-aggregator/medical-servicedao/src/main/java/com/medical/dao/AuthoritiesMapper.java
+/Users/qiaoguohua/Documents/workspace/medical-aggregator/medical-servicedao/src/main/java/com/medical/entity/User.java
+/Users/qiaoguohua/Documents/workspace/medical-aggregator/medical-servicedao/src/main/java/com/medical/entity/Users.java
+/Users/qiaoguohua/Documents/workspace/medical-aggregator/medical-servicedao/src/main/java/com/medical/service/impl/ReadonlyAuthoritiesServiceImpl.java
+/Users/qiaoguohua/Documents/workspace/medical-aggregator/medical-servicedao/src/main/java/com/medical/service/impl/ReadonlyUsersServiceimpl.java
+/Users/qiaoguohua/Documents/workspace/medical-aggregator/medical-servicedao/src/main/java/com/medical/service/impl/tx/UsersServiceImpl.java
+/Users/qiaoguohua/Documents/workspace/medical-aggregator/medical-servicedao/src/main/java/com/medical/service/impl/ReadonlyUserServiceImpl.java
+/Users/qiaoguohua/Documents/workspace/medical-aggregator/medical-servicedao/src/main/java/com/medical/dao/UsersMapper.java
+/Users/qiaoguohua/Documents/workspace/medical-aggregator/medical-servicedao/src/main/java/com/medical/service/impl/tx/UserServiceImpl.java
+/Users/qiaoguohua/Documents/workspace/medical-aggregator/medical-servicedao/src/main/java/com/medical/service/IUserService.java

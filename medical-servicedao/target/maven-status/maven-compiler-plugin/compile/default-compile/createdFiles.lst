@@ -1,0 +1,12 @@
+com/medical/service/impl/ReadonlyUsersServiceimpl.class
+com/medical/service/impl/ReadonlyUserServiceImpl.class
+com/medical/dao/UserMapper.class
+com/medical/service/impl/tx/UsersServiceImpl.class
+com/medical/dao/AuthoritiesMapper.class
+com/medical/service/impl/ReadonlyAuthoritiesServiceImpl.class
+com/medical/service/IUserService.class
+com/medical/entity/Users.class
+com/medical/entity/User.class
+com/medical/dao/UsersMapper.class
+com/medical/entity/Authorities.class
+com/medical/service/impl/tx/UserServiceImpl.class
